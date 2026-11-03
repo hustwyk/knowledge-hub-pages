@@ -1,0 +1,8 @@
+.env
+.env.*
+.runtime/
+node_modules/
+__pycache__/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
